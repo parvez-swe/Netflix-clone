@@ -1,0 +1,25 @@
+npx create-react-app --template redux
+
+////////////firebase********
+go to firebase
+go to console
+add project
+enter project name 
+continue 
+analytics unselect
+create project
+continue
+settings --> project settings
+your app select below
+firebase hosting select
+register app
+sdk next
+continue
+continue
+sdk --> config 
+copy and past to firebase.js file
+go to cloud firebase store
+build -> authentication get start
+email and password --> enable -->save
+
+//////////TMDB For film information
